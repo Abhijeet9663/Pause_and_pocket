@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'Pause_and_Pocket_Native_Android_Project.zip'
+      - 'Pause_and_Pocket_2_0_Android_Project.zip'
       - '.github/workflows/build.yml'
 
 permissions:
